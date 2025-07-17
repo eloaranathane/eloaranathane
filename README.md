@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=python,gmail,github,linkedin,windows,stackoverflow&perline=31)](https://skillicons.dev)
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+, windows
