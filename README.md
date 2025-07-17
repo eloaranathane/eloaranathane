@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=python,gmail,github,linkedin,windows,stackoverflow&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gmail,linkedin,python,stackoverflow,vscode,windows&perline=31)](https://skillicons.dev)
 
 ## Hi there 👋
 
