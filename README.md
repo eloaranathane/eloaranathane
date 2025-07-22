@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=github,gmail,linkedin,python,stackoverflow,vscode,windows&perline=31)](https://skillicons.dev)
 
-## Hi there 👋
+## Hi there, I'm Elo! A beginner programmer.  👋
 
 <!--
 **eloaranathane/eloaranathane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-, windows
+You are welcome. Be kind.
